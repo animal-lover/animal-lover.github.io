@@ -1,0 +1,46 @@
+ @charset "UTF-8";
+ body {background: #fffbf4;
+	     text-align: center; }
+
+	h1{color: red}
+	#headline{border-bottom: dashed 2px #f89174}
+	#headline p{font-size: 1.2em}
+
+	.image {display: inline; margin: 0 0 0 35px}
+	.cookie img {width: 200px; height: auto;}
+	.laura img {width: 200px; height: auto;}
+	.shiro img {width: 200px; height: auto;}
+	
+ 
+
+
+
+
+	.pets ul {list-style-type: none;}
+	.pets ul li { display: inline-block;
+	              width: 200px; height: 50px;
+	              padding: 40px 0;
+	              margin: 20px 0;
+	              vertical-align: middle;
+	              background: skyblue;
+	              font-weight: bold; color: white}  
+	.ending {text-align: center} 
+	.FB {font-weight: bold;color: blue}
+
+	body {font-family: 'Avenir','Helvetica Neue','Helvetica','Arial','Hiragino Sans','ヒラギノ角ゴシック',YuGothic,'Yu Gothic','メイリオ', Meiryo,'ＭＳ Ｐゴシック','MS PGothic',sans-serif;}
+	h1 {font-family: 'Quicksand'; font-size: 40px;}
+
+	.circle {
+		position: relative;
+		text-align: center;
+		background: skyblue;
+		height: 100px; width: 100px;
+		border-radius: 50%;.
+	}
+    .circle p {
+    	position: absolute;
+    	top: 20%; left: 0; width: 100px;
+    	text-align: center;
+    	transform: translateY(-20%);
+
+    }
